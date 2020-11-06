@@ -15,11 +15,11 @@
 }
 
 .u-section-1 .u-image-1 {
-  width: 300px;
-  height: 300px;
+  width: 360px;
+  height: 360px;
   background-image: url("images/photo_2020-11-06_16-18-28.jpg");
   background-position: 50% 50%;
-  margin: 20px auto 0;
+  margin: 0 -1px 0 auto;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -27,11 +27,11 @@
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 30px;
+  padding: 30px 30px 30px 15px;
 }
 
 .u-section-1 .u-text-1 {
-  margin: 0;
+  margin: 66px 0 0;
 }
 
 .u-section-1 .u-text-2 {
@@ -39,7 +39,27 @@
 }
 
 .u-section-1 .u-btn-1 {
-  margin: 20px 0 0;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 51px 20px 0 444px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -61px auto 0 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin: -3px 327px 0 0;
+}
+
+.u-section-1 .u-text-5 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 16px;
+  height: 22px;
 }
 
 @media (max-width: 1199px) {
@@ -57,11 +77,26 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: 0;
+    width: 300px;
+    height: 300px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-layout-cell-2 {
     min-height: 346px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 204px;
   }
 }
 
@@ -78,6 +113,10 @@
   .u-section-1 .u-layout-cell-2 {
     min-height: 100px;
   }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 68px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -89,5 +128,11 @@
   .u-section-1 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
   }
 }
