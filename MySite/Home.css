@@ -1,9 +1,9 @@
 .u-section-1 .u-sheet-1 {
-  min-height: 349px;
+  min-height: 902px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 60px auto 60px 0;
+  margin: 60px auto 0 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -17,7 +17,7 @@
 .u-section-1 .u-image-1 {
   width: 360px;
   height: 360px;
-  background-image: url("images/photo_2020-11-06_16-18-28.jpg");
+  background-image: url("images/FotoProfilo.jpg");
   background-position: 50% 50%;
   margin: 0 -1px 0 auto;
 }
@@ -77,9 +77,37 @@
   height: 22px;
 }
 
+.u-section-1 .u-text-6 {
+  margin: 4px auto 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: 4px auto 0 0;
+}
+
+.u-section-1 .u-text-8 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-text-9 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-text-10 {
+  margin: 20px auto 0 0;
+}
+
+.u-section-1 .u-text-11 {
+  margin: 20px auto 60px 0;
+}
+
+.u-section-1 .u-btn-5 {
+  padding: 0;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 26px;
+    min-height: 828px;
   }
 
   .u-section-1 .u-layout-wrap-1 {
@@ -124,6 +152,10 @@
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 582px;
+  }
+
   .u-section-1 .u-layout-cell-1 {
     min-height: 100px;
   }
@@ -151,6 +183,10 @@
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 682px;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
