@@ -393,8 +393,6 @@
   letter-spacing: 2px;
   background-image: none;
   border-style: none none solid;
-  width: 107px;
-  height: 24px;
   margin: 20px auto 0 0;
   padding: 0;
 }
@@ -428,6 +426,11 @@
   .u-section-4 .u-layout-cell-5 {
     min-height: 503px;
     margin: 20px auto 0 0;
+  }
+
+  .u-section-4 .u-btn-1 {
+    width: 107px;
+    height: 24px;
   }
 }
 
