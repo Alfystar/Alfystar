@@ -11,13 +11,13 @@
 <title>Ing. Alfano</title>
 
 
-<link rel="apple-touch-icon" sizes="180x180" href="assets/apple-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/MySite-php/assets/apple-icon.png">
 <link href="/favicon.ico" rel="icon">
 
-<link href="/css/main.css" rel="stylesheet">
-<link href="/css/grid.css" rel="stylesheet">
-<link href="/css/blockStyle.css" rel="stylesheet">
-<link href="/css/menu.css" rel="stylesheet">
+<link href="/MySite-php/css/main.css" rel="stylesheet">
+<link href="/MySite-php/css/grid.css" rel="stylesheet">
+<link href="/MySite-php/css/blockStyle.css" rel="stylesheet">
+<link href="/MySite-php/css/menu.css" rel="stylesheet">
 
 <?php
 

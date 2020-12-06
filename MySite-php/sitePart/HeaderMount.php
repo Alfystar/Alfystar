@@ -3,8 +3,8 @@
 // First element display name,
 // Second element URL link
 $menuList = array(
-    array("Home", "/index.php"),
-    array("Didattica", "/didattica.php"),
+    array("Home", "/MySite-php/index.php"),
+    array("Didattica", "/MySite-php/didattica.php"),
 //    array("Component", "/components.php"),
 //    array("pageTemplate", "/pageTemplate.php"),
 );
@@ -60,7 +60,7 @@ function navbarDefault()
             <span class="icon-bar"></span>
         </button>
         <a class="navbar-brand" href="index.php" title="">
-            <img src="/assets/Logo2 small.png" class="navbar-logo-img" alt="" height="60px">
+            <img src="/MySite-php/assets/Logo2 small.png" class="navbar-logo-img" alt="" height="60px">
             Ing Emanuele Alfano
         </a>
     </div>

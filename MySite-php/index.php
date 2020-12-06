@@ -129,7 +129,7 @@
                             </div>
                         </form>
                     </div>
-                    <div class="card-image col-xs-12" style="background-image: url('/assets/images/img-01.jpg')">
+                    <div class="card-image col-xs-12" style="background-image: url('/MySite-php/assets/images/img-01.jpg')">
                     </div>
                 </div>
             </div>

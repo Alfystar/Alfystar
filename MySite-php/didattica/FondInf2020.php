@@ -50,6 +50,7 @@
                             I professori mi hanno fatto sapere l'aula dove svolgeremo lezione: <strong> Aula B1</strong>
                         </li>
                         <li>
+                            [4/12/10] La lezione del 7/12/20 si terrà normalmente come da risultato della votazione su doodle
                         </li>
                     </ul>
                 </div>
@@ -92,7 +93,7 @@
                                     <li>Cmake</li>
                                 </ul>
                             </td>
-                            <td> <a href="https://alfystar.github.io/Files/Didattica/2020/FondInf/L1.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                            <td> <a href="/Files/Didattica/2020/FondInf/L1.tar.gz" class="btn btn-primary">File TAR</a> </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
@@ -104,7 +105,7 @@
                                     <li>Lista puntata</li>
                                 </ul>
                             </td>
-                            <td> <a href="https://alfystar.github.io/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                            <td> <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">File TAR</a> </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
@@ -116,7 +117,28 @@
                                     <li>GDB</li>
                                 </ul>
                             </td>
-                            <td> <a href="https://alfystar.github.io/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                            <td> <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                        </tr>
+
+                        <tr bgcolor="#ffffff">
+                            <td> <b>[07/12/20]</b> </td>
+                            <td>
+                                <ul class="text-left">
+                                    <li>Debugging of file</li>
+                                    <li>Debugging ricorsive program x casa</li>
+                                </ul>
+                            </td>
+                            <td>
+                                <a href="/Files/Didattica/2020/FondInf/L4-BugToFound.tar.gz" class="btn btn-primary">Bug File</a>
+<!--                                <a href="/Files/Didattica/2020/FondInf/L4-BugFree.tar.gz" class="btn btn-primary">DeBug File</a>-->
+<!--                                <ul>-->
+<!--                                    <li>-->
+<!--                                        -->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                    </li>-->
+<!--                                </ul>-->
+                            </td>
                         </tr>
 
 
