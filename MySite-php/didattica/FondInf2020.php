@@ -72,6 +72,14 @@
                             <i class="fa fa-question-circle"><a href="https://doodle.com/poll/mg7imac9hiav4d6t">Doodle Prenotazione</a></i>
                         </li>
                         <li>
+                            [07/12/20] Qui il doodle per prenotarvi alla lezione in presenza
+                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/i2849h46zazrspay">Doodle Prenotazione</a></i>
+                        </li>
+                        <li>
+                            [14/12/20] Qui il doodle per prenotarvi alla lezione in presenza
+                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/5in6tb2wa9as66fx">Doodle Prenotazione</a></i>
+                        </li>
+                        <li>
                         </li>
                     </ul>
                 </div>
