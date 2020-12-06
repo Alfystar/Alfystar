@@ -181,7 +181,7 @@
 
 <footer class="footer-container white-text-container">
     <?php
-    include("./sitePart/FooterMount.php");
+    include("../sitePart/FooterMount.php");
     footer();
     ?>
 </footer>
