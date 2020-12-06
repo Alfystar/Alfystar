@@ -15,7 +15,7 @@ function footer(){
                             </p>
                         </div>
                         <div class="col-xs-12 col-sm-5">
-                            <?php include("./sitePart/iconSocialList.php")?>
+                            <?php include("iconSocialList.php")?>
                         </div>
                     </div>
                 </div>
