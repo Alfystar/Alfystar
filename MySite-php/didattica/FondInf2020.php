@@ -117,7 +117,7 @@
                                     <li>GDB</li>
                                 </ul>
                             </td>
-                            <td> <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                            <td> <a href="/Files/Didattica/2020/FondInf/L3.tar.gz" class="btn btn-primary">File TAR</a> </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
