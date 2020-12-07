@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php include("./sitePart/commonHead.php")?>
+    <?php include("./sitePart/commonHead.php") ?>
 </head>
 
 <body> <!-- Add your content of header -->
@@ -30,14 +30,14 @@
                         <h3>Tutoraggio di Fondamenti di Informatica 2020/21</h3>
                     </div>
                     <div class="flex-conteiner">
-                        <div class="col-xs-10 flex-child flex-child-Big"  style=" padding-top: 5px" >
+                        <div class="col-xs-10 flex-child flex-child-Big" style=" padding-top: 5px">
                             <p style="vertical-align: bottom">
                                 Corso indirizzato a gli ingegneri Elettronici e di Internet.
                             </p>
                         </div>
 
                         <div class="col-xs-2 flex-child flex-child-Small "
-                            style="padding-right: 100px;">
+                             style="padding-right: 100px;">
                             <a href="./didattica/FondInf2020.php" class="btn btn-info btn-sm">FondInf 2020</a>
                         </div>
                     </div>
@@ -46,7 +46,6 @@
         </div>
     </div>
 </div>
-
 
 
 <footer class="footer-container white-text-container">

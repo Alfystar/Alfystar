@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <?php include("./sitePart/commonHead.php")?>
+    <?php include("./sitePart/commonHead.php") ?>
 </head>
 
 <body> <!-- Add your content of header -->
@@ -45,7 +45,6 @@
         </div>
     </div>
 </div>
-
 
 
 <footer class="footer-container white-text-container">

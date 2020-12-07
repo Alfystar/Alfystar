@@ -9,7 +9,7 @@ if (isset($_POST['Email'])) {
     {
         echo "We are very sorry, but there were error(s) found with the form you submitted. ";
         echo "These errors appear below.<br><br>";
-        echo $error , "<br><br>";
+        echo $error, "<br><br>";
         echo "Please go back and fix these errors.<br><br>";
         die();
     }
@@ -77,5 +77,5 @@ if (isset($_POST['Email'])) {
 }
 ?>
 
-<meta http-equiv="refresh" content="10; URL='/'" />
+<meta http-equiv="refresh" content="10; URL='/'"/>
 

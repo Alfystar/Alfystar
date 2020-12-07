@@ -41,16 +41,20 @@
                     </h3>
                     <ul>
                         <li>
-                            [11/11/20] Buon giorno a tutti ragazzi, intanto, per iniziare, ecco il link per la votazione del giorno di lezione:
-                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/vux42u387m99v8a2">Doodle Giorno Lezione</a></i>
+                            [11/11/20] Buon giorno a tutti ragazzi, intanto, per iniziare, ecco il link per la votazione
+                            del giorno di lezione:
+                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/vux42u387m99v8a2">Doodle
+                                    Giorno Lezione</a></i>
 
                         </li>
                         <li>
-                            [13/11/20] Il vincitore, a larghissima maggioranza è stato:  <strong> Lunedì tra le 16-18</strong> <br>
+                            [13/11/20] Il vincitore, a larghissima maggioranza è stato: <strong> Lunedì tra le
+                                16-18</strong> <br>
                             I professori mi hanno fatto sapere l'aula dove svolgeremo lezione: <strong> Aula B1</strong>
                         </li>
                         <li>
-                            [4/12/10] La lezione del 7/12/20 si terrà normalmente come da risultato della votazione su doodle
+                            [4/12/10] La lezione del 7/12/20 si terrà normalmente come da risultato della votazione su
+                            doodle
                         </li>
                     </ul>
                 </div>
@@ -61,7 +65,8 @@
                     <ul>
                         <li>
                             [16/11/20] Qui il doodle per prenotarvi alla lezione in presenza
-                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/i48man4it96hvh76">Doodle Prenotazione</a></i>
+                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/i48man4it96hvh76">Doodle
+                                    Prenotazione</a></i>
                         </li>
                         <li>
                             [23/11/20] Qui il doodle per prenotarvi alla lezione in presenza
@@ -69,15 +74,18 @@
                         </li>
                         <li>
                             [30/11/20] Qui il doodle per prenotarvi alla lezione in presenza
-                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/mg7imac9hiav4d6t">Doodle Prenotazione</a></i>
+                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/mg7imac9hiav4d6t">Doodle
+                                    Prenotazione</a></i>
                         </li>
                         <li>
                             [07/12/20] Qui il doodle per prenotarvi alla lezione in presenza
-                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/i2849h46zazrspay">Doodle Prenotazione</a></i>
+                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/i2849h46zazrspay">Doodle
+                                    Prenotazione</a></i>
                         </li>
                         <li>
                             [14/12/20] Qui il doodle per prenotarvi alla lezione in presenza
-                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/5in6tb2wa9as66fx">Doodle Prenotazione</a></i>
+                            <i class="fa fa-question-circle"><a href="https://doodle.com/poll/5in6tb2wa9as66fx">Doodle
+                                    Prenotazione</a></i>
                         </li>
                         <li>
                         </li>
@@ -86,14 +94,15 @@
                 <div id="fileTable">
                     <h3>Argomenti trattati</h3>
                     <table width="100%" border="1" class="text-center">
-                        <tbody><tr bgcolor="#adf6f2">
-                            <td> <b>Data</b> </td>
-                            <td> <b>Argomenti</b> </td>
-                            <td> <b>File lezione</b> </td>
+                        <tbody>
+                        <tr bgcolor="#adf6f2">
+                            <td><b>Data</b></td>
+                            <td><b>Argomenti</b></td>
+                            <td><b>File lezione</b></td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
-                            <td> <b>[16/11/20]	</b> </td>
+                            <td><b>[16/11/20] </b></td>
                             <td>
                                 <ul class="text-left">
                                     <li>Esercitazione sul phi-greco</li>
@@ -101,11 +110,12 @@
                                     <li>Cmake</li>
                                 </ul>
                             </td>
-                            <td> <a href="/Files/Didattica/2020/FondInf/L1.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                            <td><a href="/Files/Didattica/2020/FondInf/L1.tar.gz" class="btn btn-primary">File TAR</a>
+                            </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
-                            <td> <b>[23/11/20]	</b> </td>
+                            <td><b>[23/11/20] </b></td>
                             <td>
                                 <ul class="text-left">
                                     <li>Esercitazione su stringe e argv</li>
@@ -113,11 +123,12 @@
                                     <li>Lista puntata</li>
                                 </ul>
                             </td>
-                            <td> <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                            <td><a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">File TAR</a>
+                            </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
-                            <td> <b>[30/11/20]	</b> </td>
+                            <td><b>[30/11/20] </b></td>
                             <td>
                                 <ul class="text-left">
                                     <li>Accediamo a una matrice dai puntatori</li>
@@ -125,11 +136,12 @@
                                     <li>GDB</li>
                                 </ul>
                             </td>
-                            <td> <a href="/Files/Didattica/2020/FondInf/L3.tar.gz" class="btn btn-primary">File TAR</a> </td>
+                            <td><a href="/Files/Didattica/2020/FondInf/L3.tar.gz" class="btn btn-primary">File TAR</a>
+                            </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
-                            <td> <b>[07/12/20]</b> </td>
+                            <td><b>[07/12/20]</b></td>
                             <td>
                                 <ul class="text-left">
                                     <li>Debugging of file</li>
@@ -137,15 +149,16 @@
                                 </ul>
                             </td>
                             <td>
-                                <a href="/Files/Didattica/2020/FondInf/L4-BugToFound.tar.gz" class="btn btn-primary">Bug File</a>
-<!--                                <a href="/Files/Didattica/2020/FondInf/L4-BugFree.tar.gz" class="btn btn-primary">DeBug File</a>-->
-<!--                                <ul>-->
-<!--                                    <li>-->
-<!--                                        -->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                    </li>-->
-<!--                                </ul>-->
+                                <a href="/Files/Didattica/2020/FondInf/L4-BugToFound.tar.gz" class="btn btn-primary">Bug
+                                    File</a>
+                                <!--                                <a href="/Files/Didattica/2020/FondInf/L4-BugFree.tar.gz" class="btn btn-primary">DeBug File</a>-->
+                                <!--                                <ul>-->
+                                <!--                                    <li>-->
+                                <!--                                        -->
+                                <!--                                    </li>-->
+                                <!--                                    <li>-->
+                                <!--                                    </li>-->
+                                <!--                                </ul>-->
                             </td>
                         </tr>
 
@@ -167,16 +180,15 @@
                         <td> 15/12/2019 </td>
                         </tr>
                         -->
-                        </tbody></table>
+                        </tbody>
+                    </table>
                 </div>
-
 
 
             </div>
         </div>
     </div>
 </div>
-
 
 
 <footer class="footer-container white-text-container">

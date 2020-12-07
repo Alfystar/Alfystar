@@ -1,8 +1,8 @@
-.grid-container-Profilo{
+.grid-container-Profilo {
     display: grid;
     grid-template-rows: 360px 1fr;
     /*grid-template-columns: 1fr 2fr;*/
-    grid-template-columns: repeat(auto-fit,minmax(360px, auto));
+    grid-template-columns: repeat(auto-fit, minmax(360px, auto));
     grid-gap: 5px;
     /*border: 1px solid #ff66a8;*/
 }
@@ -33,15 +33,15 @@
     /*border: 1px solid #66ff6e;*/
 }
 
-.grid-item h1{
+.grid-item h1 {
     font-size: 50px;
 }
 
-.grid-item p{
+.grid-item p {
     font-size: 30px;
 }
 
-.grid-item li{
+.grid-item li {
     font-size: 25px;
 
 }
