@@ -54,14 +54,14 @@
                     <h3>Percorso Formativo</h3>
                     <ul class="text-left blockList">
                         <li>
-                            Attualmente seguo, presso <a href="#" target="Univeristà"><b>Università di Tor Vergata</b></a>,
+                            Attualmente seguo, presso l'<a href="https://web.uniroma2.it/" target="Univeristà"><b>Università degli Studi di Roma "Tor Vergata"</b></a>,
                             il corso magistrale in <b>Ingengneria dell'Automazione</b>.
                         </li>
 
 <!--                        <br><br>-->
                         <li>
-                            Sempre a <a href="#" target="Univeristà"><b>Tor Vergata</b></a> ho conseguito
-                            la laurea in <b>Ingengneria Informatica ed Automatica</b> con la <b>votazione di 110 e Lode</b>.<br>
+                            Sempre all'<a href="https://web.uniroma2.it/" target="Univeristà"><b>Università degli Studi di Roma "Tor Vergata"</b></a>
+                            ho conseguito la laurea in <b>Ingengneria Informatica ed Automatica</b> con la <b>votazione di 110 e Lode</b>.<br>
                             Tra i crediti facoltativi ho inserito degli esami <i>Vulnerabilità e Sicurezza Informatica</i> per la
                             grande curiosità che questi temi suscitano sempre in me.
                         </li>
