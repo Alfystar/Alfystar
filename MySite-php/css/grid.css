@@ -11,6 +11,10 @@
     /* clip: shape(top, right, bottom, left); NB 'rect' is the only available option */
     width: 360px;
     height: 360px;
+    /*max-width: 360px;*/
+    /*max-height: 360px;*/
+    /*height: auto;*/
+    /*width: auto; !* ie8 *!*/
     background-image: url(../assets/FotoProfilo.jpg);
     background-position: 50% 60%; /*Set the center or the radius*/
     background-size: 100%; /*Set the source scale*/

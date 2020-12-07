@@ -36,7 +36,7 @@
                     <div style="display: block;margin-left: auto;margin-right: auto; width: 118px">
                         <?php include("./sitePart/iconSocialList.php")?>
                     </div>
-                    <div class="pull-right">
+                    <div class="center-block">
                         <a href="/Files/Personali/20-11-07EMANUELE_ALFANO_CV.pdf" class="btn btn-default btn-lg" title="">Get Curriculum</a>
                     </div>
                 </div>
@@ -52,18 +52,26 @@
                 <div class="text-center">
                     <h2>Biografia</h2>
                     <h3>Percorso Formativo</h3>
-                    <p class="text-left">
-                        Attualmente seguo, presso <a href="#" target="Univeristà"><b>Università di Tor Vergata</b></a>, il corso magistrale in <b>Ingengeria dell'Automazione</b>.
-                        <br><br>
-                        Sempre a <a href="#" target="Univeristà"><b>Tor Vergata</b></a> ho conseguito
-                        la laurea in <b>Ingengeria Informatica ed Automatica</b> con la <b>votazione di 110 e Lode</b>.<br>
-                        Tra i crediti facoltativi ho inserito degli esami <i>Vulnerabilità e Sicurezza Informatica</i> per la
-                        grande curiosità che questi temi suscitano sempre in me.
-                        <br><br>
-                        Alle superiori sono stato iscritto all'<a href="http://www.itisgalilei.edu.it/it/" target="Superiori"><b>ITIS Galielo Galilei</b></a>,
-                        indirizzo: <b>Perito Elettronico ed Automatico</b> mi sono diplomato con <b>voto di Maturita di 100/100</b>.
+                    <ul class="text-left blockList">
+                        <li>
+                            Attualmente seguo, presso <a href="#" target="Univeristà"><b>Università di Tor Vergata</b></a>,
+                            il corso magistrale in <b>Ingengneria dell'Automazione</b>.
+                        </li>
 
-                    </p>
+<!--                        <br><br>-->
+                        <li>
+                            Sempre a <a href="#" target="Univeristà"><b>Tor Vergata</b></a> ho conseguito
+                            la laurea in <b>Ingengneria Informatica ed Automatica</b> con la <b>votazione di 110 e Lode</b>.<br>
+                            Tra i crediti facoltativi ho inserito degli esami <i>Vulnerabilità e Sicurezza Informatica</i> per la
+                            grande curiosità che questi temi suscitano sempre in me.
+                        </li>
+
+<!--                        <br><br>-->
+                        <li>
+                            Alle superiori sono stato iscritto all'<a href="http://www.itisgalilei.edu.it/it/" target="Superiori"><b>ITIS Galielo Galilei</b></a>,
+                            indirizzo: <b>Perito Elettronico ed Automatico</b> mi sono diplomato con <b>voto di Maturita di 100/100</b>.
+                        </li>
+                    </ul>
                     <h3>Competizioni ed Eventi</h3>
                     <p class="text-left">
                         Sin dagli anni delle superiori ho avuto attività extra scolastiche molto immersive, che mi hanno
