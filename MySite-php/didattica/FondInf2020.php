@@ -56,6 +56,10 @@
                             [4/12/10] La lezione del 7/12/20 si terrà normalmente come da risultato della votazione su
                             doodle
                         </li>
+                        <li>
+                            [16/12/10] Dalla lezione del 21/12/20 le lezioni si svolgeranno <b>SOLO ONLINE</b>, fino
+                            alla fine del corso, a meno di ulteriori avvisi in seguito
+                        </li>
                     </ul>
                 </div>
                 <div id="Doodle Lezioni in Presenza">
@@ -141,7 +145,11 @@
                         </tr>
 
                         <tr bgcolor="#ffffff">
-                            <td><b>[07/12/20]</b></td>
+                            <td>
+                                <del><b>[07/12/20]</b></del>
+                                <br>
+                                <b>[14/12/20]</b>
+                            </td>
                             <td>
                                 <ul class="text-left">
                                     <li>Debugging of file</li>
@@ -149,37 +157,25 @@
                                 </ul>
                             </td>
                             <td>
-                                <a href="/Files/Didattica/2020/FondInf/L4-BugToFound.tar.gz" class="btn btn-primary">Bug
-                                    File</a>
-                                <!--                                <a href="/Files/Didattica/2020/FondInf/L4-BugFree.tar.gz" class="btn btn-primary">DeBug File</a>-->
-                                <!--                                <ul>-->
-                                <!--                                    <li>-->
-                                <!--                                        -->
-                                <!--                                    </li>-->
-                                <!--                                    <li>-->
-                                <!--                                    </li>-->
-                                <!--                                </ul>-->
+                                <a href="/Files/Didattica/2020/FondInf/L4-BugToFound.tar.gz" class="btn btn-primary">Bug File</a>
+<!--                                <a href="/Files/Didattica/2020/FondInf/L4-BugFree.tar.gz" class="btn btn-primary">DeBug File</a>-->
                             </td>
                         </tr>
 
-
-                        <!--
-
-                        <tr bgcolor="#BFFF00">
-                        <td> <b>Virtual file system</b> </td>
-                        <td> <a href="./SLIDES/virtual-file-system.pdf">download link</a> </td>
-                        <td> <a href="./SOFTWARE/VIRTUAL-FILE-SYSTEM.tar">download link</a> </td>
-                        <td> 10/12/2019 </td>
+                        <tr bgcolor="#ffffff">
+                            <td><b>[21/12/20] </b></td>
+                            <td>
+<!--                                <ul class="text-left">-->
+<!--                                    <li>Accediamo a una matrice dai puntatori</li>-->
+<!--                                    <li>Esercizio da matrice 2D a 3D</li>-->
+<!--                                    <li>GDB</li>-->
+<!--                                </ul>-->
+                            </td>
+                            <td>
+<!--                                <a href="/Files/Didattica/2020/FondInf/L3.tar.gz" class="btn btn-primary">File TAR</a>-->
+                            </td>
                         </tr>
 
-
-                        <tr bgcolor="#BFFF00">
-                        <td> <b>Software security</b> </td>
-                        <td> <a href="./SLIDES/system-software-security.pdf">download link</a> </td>
-                        <td> <a href="./SOFTWARE/SOFTWARE-SECURITY.tar">download link</a> </td>
-                        <td> 15/12/2019 </td>
-                        </tr>
-                        -->
                         </tbody>
                     </table>
                 </div>

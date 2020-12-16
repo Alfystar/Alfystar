@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="typo correction">
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="update data 16-12-20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySite-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,8 @@
       <updated>1607283030796</updated>
       <workItem from="1607283033509" duration="1809000" />
       <workItem from="1607286738219" duration="4756000" />
-      <workItem from="1607330501458" duration="1100000" />
+      <workItem from="1607330501458" duration="1236000" />
+      <workItem from="1608114188304" duration="1626000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -109,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607331119308</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="PAGES refactor">
+      <created>1607331697799</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607331697799</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +140,8 @@
     <MESSAGE value="Reformat file for the upload on altervista" />
     <MESSAGE value="biografia" />
     <MESSAGE value="typo correction" />
-    <option name="LAST_COMMIT_MESSAGE" value="typo correction" />
+    <MESSAGE value="PAGES refactor" />
+    <MESSAGE value="update data 16-12-20" />
+    <option name="LAST_COMMIT_MESSAGE" value="update data 16-12-20" />
   </component>
 </project>

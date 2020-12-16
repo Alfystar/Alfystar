@@ -57,21 +57,17 @@
                         <li>
                             Attualmente seguo, presso l'<a href="https://web.uniroma2.it/" target="Univeristà"><b>Università
                                     degli Studi di Roma "Tor Vergata"</b></a>,
-                            il corso magistrale in <b>Ingengneria dell'Automazione</b>.
+                            il corso magistrale in <b>Ingegneria dell'Automazione</b>.
                         </li>
-
-                        <!--                        <br><br>-->
                         <li>
                             Sempre all'<a href="https://web.uniroma2.it/" target="Univeristà"><b>Università degli Studi
                                     di Roma "Tor Vergata"</b></a>
-                            ho conseguito la laurea in <b>Ingengneria Informatica ed Automatica</b> con la <b>votazione
+                            ho conseguito la laurea in <b>Ingegneria Informatica ed Automatica</b> con la <b>votazione
                                 di 110 e Lode</b>.<br>
                             Tra i crediti facoltativi ho inserito degli esami <i>Vulnerabilità e Sicurezza
                                 Informatica</i> per la
                             grande curiosità che questi temi suscitano sempre in me.
                         </li>
-
-                        <!--                        <br><br>-->
                         <li>
                             Alle superiori sono stato iscritto all'<a href="http://www.itisgalilei.edu.it/it/"
                                                                       target="Superiori"><b>ITIS Galielo Galilei</b></a>,
@@ -145,8 +141,6 @@
                 </div>
                 <div class="card-container">
                     <div class="card card-shadow col-xs-10 col-xs-offset-1 col-md-12 col-md-offset-0 reveal">
-                        <!--                                action="mailto:alfystar1701@gmail.com?subject=[Email-Site]"-->
-                        <!--                              enctype="text/plain"-->
                         <form id="fcf-form-id"
                               method="post"
                               class="reveal-content"
