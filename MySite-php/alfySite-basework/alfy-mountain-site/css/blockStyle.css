@@ -1,0 +1,52 @@
+.border-container-15px, .border-container-30px, .border-container-60px, .border-container-90px, .border-container-120px {
+
+    border-width: 1px;
+    border-left: solid;
+    border-color: #124fbb;
+    padding-left: 10px;
+    border-radius: 10px;
+    /*margin-top: 100px;*/
+    margin-bottom: 10px;
+    padding-top: 5px;
+}
+.border-container-15px{
+    padding-bottom: 15px;
+}
+
+.border-container-30px{
+    padding-bottom: 30px;
+}
+
+.border-container-60px{
+    padding-bottom: 60px;
+}
+
+.border-container-90px{
+    padding-bottom: 90px;
+}
+
+.border-container-120px{
+    padding-bottom: 120px;
+}
+
+.flex-conteiner{
+    display: inline-flex; /* or inline-flex */
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.flex-child {
+    align-self: center;
+    flex-grow: 1;
+}
+
+.flex-child-Big{
+    flex-basis: 400px;
+}
+
+.flex-child-Small{
+    flex-basis: 150px;
+}
+/*div{*/
+/*    border: #8a6d3b solid 1px;*/
+/*}*/

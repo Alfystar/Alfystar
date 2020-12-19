@@ -3,10 +3,9 @@
 // First element display name,
 // Second element URL link
 $menuList = array(
-    array("Home", "/MySite-php/index.php"),
-    array("Didattica", "/MySite-php/didattica.php"),
-//    array("Component", "/components.php"),
-//    array("pageTemplate", "/pageTemplate.php"),
+    array("Home", "/index.php"),
+    array("Project", "/project.php"),
+    array("Component", "/components.php"),
 );
 
 function itemMenu($name, $link, $box)
@@ -59,8 +58,8 @@ function navbarDefault()
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/index.html" title="">
-            <img src="/MySite-php/assets/Logo2 small.png" class="navbar-logo-img" alt="" height="60px">
+        <a class="navbar-brand" href="index.php" title="">
+            <img src="assets/Logo2 small.png" class="navbar-logo-img" alt="" height="60px">
             Ing Emanuele Alfano
         </a>
     </div>
