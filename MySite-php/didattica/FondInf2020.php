@@ -97,6 +97,14 @@
                 </div>
                 <div id="fileTable">
                     <h3>Argomenti trattati</h3>
+                    <ul>
+                        <li>
+                            <a href="https://youtube.com/playlist?list=PLNj_ZzE2Ih2FbuWfQ8CpqHKsFvZavH1FP" target="youtube"> Video registrazioni Lezioni</a>
+                        </li>
+                        <li>
+                            <a href="/Files/Didattica/2020/FondInf/tracce_esami.zip"> Tracce Esami anni passati</a>
+                        </li>
+                    </ul>
                     <table width="100%" border="1" class="text-center">
                         <tbody>
                         <tr bgcolor="#adf6f2">
@@ -158,21 +166,21 @@
                             </td>
                             <td>
                                 <a href="/Files/Didattica/2020/FondInf/L4-BugToFound.tar.gz" class="btn btn-primary">Bug File</a>
-<!--                                <a href="/Files/Didattica/2020/FondInf/L4-BugFree.tar.gz" class="btn btn-primary">DeBug File</a>-->
+                                <a href="/Files/Didattica/2020/FondInf/L4-BugFree.tar.gz" class="btn btn-primary">DeBug File</a>
                             </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
                             <td><b>[21/12/20] </b></td>
                             <td>
-<!--                                <ul class="text-left">-->
-<!--                                    <li>Accediamo a una matrice dai puntatori</li>-->
-<!--                                    <li>Esercizio da matrice 2D a 3D</li>-->
-<!--                                    <li>GDB</li>-->
-<!--                                </ul>-->
+                                <ul class="text-left">
+                                    <li>Creiamo un nodo</li>
+                                    <li>Creiamo un albero e le sue operazioni</li>
+                                    <li>Print ricorsivo (DFS)</li>
+                                </ul>
                             </td>
                             <td>
-<!--                                <a href="/Files/Didattica/2020/FondInf/L3.tar.gz" class="btn btn-primary">File TAR</a>-->
+                                <a href="/Files/Didattica/2020/FondInf/L5.tar.gz" class="btn btn-primary">File TAR</a>
                             </td>
                         </tr>
 
