@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="update data 16-12-20">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files/Didattica/2020/FondInf/L5.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Didattica/2020/FondInf/L5.tar.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +55,7 @@
       <workItem from="1607330501458" duration="1236000" />
       <workItem from="1608114188304" duration="1679000" />
       <workItem from="1608381851915" duration="303000" />
+      <workItem from="1608571492008" duration="61000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>

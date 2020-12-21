@@ -176,11 +176,12 @@
                                 <ul class="text-left">
                                     <li>Creiamo un nodo</li>
                                     <li>Creiamo un albero e le sue operazioni</li>
-                                    <li>Print ricorsivo (DFS)</li>
+                                    <li>Print ricorsivo (DFS) e con coda (BFS)</li>
                                 </ul>
                             </td>
                             <td>
                                 <a href="/Files/Didattica/2020/FondInf/L5.tar.gz" class="btn btn-primary">File TAR</a>
+                                <a href="/Files/Didattica/2020/FondInf/L5-Aula.tar.gz" class="btn btn-primary">File TAR in aula</a>
                             </td>
                         </tr>
 
