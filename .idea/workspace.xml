@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="update data 16-12-20">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Files/Didattica/2020/FondInf/L5.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/Files/Didattica/2020/FondInf/L5.tar.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" afterDir="false" />
-    </list>
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="L5-Aula update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +51,7 @@
       <workItem from="1607330501458" duration="1236000" />
       <workItem from="1608114188304" duration="1679000" />
       <workItem from="1608381851915" duration="303000" />
-      <workItem from="1608571492008" duration="61000" />
+      <workItem from="1608571492008" duration="160000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -127,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608115849497</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="L5-Aula update">
+      <created>1608571589335</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1608571589336</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +154,7 @@
     <MESSAGE value="typo correction" />
     <MESSAGE value="PAGES refactor" />
     <MESSAGE value="update data 16-12-20" />
-    <option name="LAST_COMMIT_MESSAGE" value="update data 16-12-20" />
+    <MESSAGE value="L5-Aula update" />
+    <option name="LAST_COMMIT_MESSAGE" value="L5-Aula update" />
   </component>
 </project>
