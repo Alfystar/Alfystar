@@ -185,8 +185,39 @@
                             </td>
                         </tr>
 
+                        <tr bgcolor="#ffffff">
+                            <td><b>[11/01/21] </b></td>
+                            <td>
+                                1° parte dell'esame "The game OF LIFE"
+                            </td>
+                            <td>
+                                <a href="/Files/Didattica/2020/FondInf/L6.tar.gz" class="btn btn-primary">File TAR</a>
+                            </td>
+                        </tr>
+
+                        <tr bgcolor="#ffffff">
+                            <td><b>[18/01/21] </b></td>
+                            <td>
+                                2° parte dell'esame "The game OF LIFE"
+                            </td>
+                            <td>
+                                <a href="/Files/Didattica/2020/FondInf/L7.tar.gz" class="btn btn-primary">File TAR</a>
+                            </td>
+                        </tr>
+
                         </tbody>
                     </table>
+                    <div>
+                        <br>
+                        <ul>
+                            <li>
+                                <a href="/Files/Didattica/2020/FondInf/TheGameOfLife.tar" class="btn btn-primary">Intero programma con ide CLION</a>
+                            </li>
+                            <li>
+                                <a href="/Files/Didattica/2020/FondInf/L6_L7-TheGameOfLife.tar" class="btn btn-primary">L6 && L7 all files</a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
 
 
