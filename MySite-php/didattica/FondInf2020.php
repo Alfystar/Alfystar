@@ -53,12 +53,16 @@
                             I professori mi hanno fatto sapere l'aula dove svolgeremo lezione: <strong> Aula B1</strong>
                         </li>
                         <li>
-                            [4/12/10] La lezione del 7/12/20 si terrà normalmente come da risultato della votazione su
+                            [4/12/20] La lezione del 7/12/20 si terrà normalmente come da risultato della votazione su
                             doodle
                         </li>
                         <li>
-                            [16/12/10] Dalla lezione del 21/12/20 le lezioni si svolgeranno <b>SOLO ONLINE</b>, fino
+                            [16/12/20] Dalla lezione del 21/12/20 le lezioni si svolgeranno <b>SOLO ONLINE</b>, fino
                             alla fine del corso, a meno di ulteriori avvisi in seguito
+                        </li>
+                        <li>
+                            [09/01/21] La lezione del 18/01/21 sarà <b>SOLO ONLINE</b>, e durerà più tempo delle consuete
+                            1.30-2h, ciò al fine di portare a termine assieme a voi un intero esame di un anno passato
                         </li>
                     </ul>
                 </div>
@@ -90,8 +94,6 @@
                             [14/12/20] Qui il doodle per prenotarvi alla lezione in presenza
                             <i class="fa fa-question-circle"><a href="https://doodle.com/poll/5in6tb2wa9as66fx">Doodle
                                     Prenotazione</a></i>
-                        </li>
-                        <li>
                         </li>
                     </ul>
                 </div>
@@ -186,23 +188,26 @@
                         </tr>
 
                         <tr bgcolor="#ffffff">
-                            <td><b>[11/01/21] </b></td>
+                            <td><b>[11/01/21]</b><br><em>With extra Time</em></td>
                             <td>
-                                1° parte dell'esame "The game OF LIFE"
+                                1° parte dell'esame "The game OF LIFE" <br>
+                                <em>2° parte dell'esame "The game OF LIFE"</em>
                             </td>
                             <td>
-                                <a href="/Files/Didattica/2020/FondInf/L6.tar.gz" class="btn btn-primary">File TAR</a>
+                                <a href="/Files/Didattica/2020/FondInf/L6.tar.gz" class="btn btn-primary">File 1° parte TAR</a>
+                                <a href="/Files/Didattica/2020/FondInf/L7.tar.gz" class="btn btn-primary">File 2° parte TAR</a>
                             </td>
                         </tr>
 
                         <tr bgcolor="#ffffff">
-                            <td><b>[18/01/21] </b></td>
+                            <td><del><b>[18/01/21]</b></del></td>
                             <td>
-                                2° parte dell'esame "The game OF LIFE"
+                                <del>2° parte dell'esame "The game OF LIFE"</del>
                             </td>
                             <td>
-                                <a href="/Files/Didattica/2020/FondInf/L7.tar.gz" class="btn btn-primary">File TAR</a>
+                                    <a href="/Files/Didattica/2020/FondInf/L7.tar.gz" class="btn btn-primary">File 2° parte TAR</a>
                             </td>
+
                         </tr>
 
                         </tbody>
@@ -211,10 +216,10 @@
                         <br>
                         <ul>
                             <li>
-                                <a href="/Files/Didattica/2020/FondInf/TheGameOfLife.tar" class="btn btn-primary">Intero programma con ide CLION</a>
+                                <a href="/Files/Didattica/2020/FondInf/TheGameOfLife.tar" class="btn btn-primary">Intero ESAME compatibile con ide CLION</a>
                             </li>
                             <li>
-                                <a href="/Files/Didattica/2020/FondInf/L6_L7-TheGameOfLife.tar" class="btn btn-primary">L6 && L7 all files</a>
+                                <a href="/Files/Didattica/2020/FondInf/L6_L7-TheGameOfLife.tar" class="btn btn-primary">L6 & L7 all files</a>
                             </li>
                         </ul>
                     </div>

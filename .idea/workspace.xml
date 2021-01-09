@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="L5-Aula update">
+      <change afterPath="$PROJECT_DIR$/MySite-php/css/main_X_Mamma.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" afterDir="false" />
     </list>
@@ -12,6 +13,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -56,6 +65,8 @@
       <workItem from="1608381851915" duration="303000" />
       <workItem from="1608571492008" duration="160000" />
       <workItem from="1608720502172" duration="270000" />
+      <workItem from="1609756660258" duration="416000" />
+      <workItem from="1610185173045" duration="482000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
