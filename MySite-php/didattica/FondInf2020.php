@@ -196,6 +196,7 @@
                             <td>
                                 <a href="/Files/Didattica/2020/FondInf/L6.tar.gz" class="btn btn-primary">File 1° parte TAR</a>
                                 <a href="/Files/Didattica/2020/FondInf/L7.tar.gz" class="btn btn-primary">File 2° parte TAR</a>
+                                <a href="/Files/Didattica/2020/FondInf/TheGameOfLife-aula.tar.gz" class="btn btn-primary">File TAR della Lezione</a>
                             </td>
                         </tr>
 

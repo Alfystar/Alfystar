@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="L5-Aula update">
-      <change afterPath="$PROJECT_DIR$/MySite-php/css/main_X_Mamma.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" afterDir="false" />
-    </list>
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="Last lesson FI2020 update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +62,7 @@
       <workItem from="1608571492008" duration="160000" />
       <workItem from="1608720502172" duration="270000" />
       <workItem from="1609756660258" duration="416000" />
-      <workItem from="1610185173045" duration="482000" />
+      <workItem from="1610185173045" duration="621000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -145,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608571589336</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Last lesson FI2020 update">
+      <created>1610185685415</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1610185685415</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +173,7 @@
     <MESSAGE value="PAGES refactor" />
     <MESSAGE value="update data 16-12-20" />
     <MESSAGE value="L5-Aula update" />
-    <option name="LAST_COMMIT_MESSAGE" value="L5-Aula update" />
+    <MESSAGE value="Last lesson FI2020 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Last lesson FI2020 update" />
   </component>
 </project>
