@@ -37,7 +37,7 @@
                         <?php include("./sitePart/iconSocialList.php") ?>
                     </div>
                     <div class="center-block" style="padding-top: 20px">
-                        <a href="/Files/Personali/20-11-07EMANUELE_ALFANO_CV.pdf" class="btn btn-default btn-lg"
+                        <a href="/Files/Personali/21-01-12EMANUELE ALFANO CV.pdf" class="btn btn-default btn-lg"
                            title="">Get Curriculum</a>
                     </div>
                 </div>
