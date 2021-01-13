@@ -22,10 +22,9 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 col-md-8 col-md-offset-2">
-                <h1 class="text-center">Corsi Torvergata</h1>
+                <h2 class="text-center">Corsi Torvergata</h2>
 
-
-                <div class="border-container-15px">
+                <div id="FdI2020" class="border-container-15px">
                     <div class="text-left">
                         <h3>Tutoraggio di Fondamenti di Informatica 2020/21</h3>
                     </div>
@@ -39,6 +38,38 @@
                         <div class="col-xs-2 flex-child flex-child-Small "
                              style="padding-right: 100px;">
                             <a href="./didattica/FondInf2020.php" class="btn btn-info btn-sm">FondInf 2020</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-md-8 col-md-offset-2">
+                <h2 class="text-center">Corsi Fondazione Mondo Digitale</h2>
+
+                <div id="CodingGirl2021" class="border-container-15px">
+                    <div class="text-left">
+                        <h3>Coding-Girl 2021</h3>
+                    </div>
+                    <div class="flex-conteiner">
+                        <div class="col-xs-10 flex-child flex-child-Big" style=" padding-top: 5px">
+                            <p style="vertical-align: bottom">
+                                Corso indirizzato alle ragazze e ai ragazzi della scuola superiore:<br>
+                            <ul>
+                                <li>
+                                    LS VITO VOLTERRA - CIAMPINO
+                                </li>
+                                <li>
+                                    LCSS B. RUSSELL - ROMA
+                                </li>
+                                <li>
+                                    LICEO LEVI CIVITA - ROMA
+                                </li>
+                            </ul>
+                            </p>
+                        </div>
+
+                        <div class="col-xs-2 flex-child flex-child-Small "
+                             style="padding-right: 100px;">
+                            <a href="./didattica/CodingGirl2020.php" class="btn btn-info btn-sm">Coding-Girl 2021</a>
                         </div>
                     </div>
                 </div>

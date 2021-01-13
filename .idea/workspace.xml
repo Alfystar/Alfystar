@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="Last lesson FI2020 update" />
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="Last lesson FI2020 update">
+      <change afterPath="$PROJECT_DIR$/MySite-php/css/tableDidatticaStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/didattica.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/commonHead.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/commonHead.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,8 +37,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MySite-php/didattica" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -40,6 +47,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MySite-php/didattica" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="localhost" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$" port="8080">
@@ -63,6 +75,7 @@
       <workItem from="1608720502172" duration="270000" />
       <workItem from="1609756660258" duration="416000" />
       <workItem from="1610185173045" duration="621000" />
+      <workItem from="1610527945953" duration="4402000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>

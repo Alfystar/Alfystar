@@ -29,7 +29,7 @@
                         Pagina dedicata ai ragazzi di Fondamenti di Informatica A.A. 2020-21
                     </h4>
                     <p>
-                        Per contattarmi riguardo questo corso scrivere su gmail, è preferibile usare gmail:
+                        Per contattarmi riguardo questo corso scrivere su gmail, è preferibile usare gmail:<br>
                         <i class="fa fa-envelope" aria-hidden="true"> </i>
                         <a href="mailto:alfystar1701@gmail.com?Subject=[Fond-Inf2020]"
                            target="emailTab">alfystar1701@gmail.com</a> <br>
@@ -107,15 +107,16 @@
                             <a href="/Files/Didattica/2020/FondInf/tracce_esami.zip"> Tracce Esami anni passati</a>
                         </li>
                     </ul>
-                    <table width="100%" border="1" class="text-center">
-                        <tbody>
-                        <tr bgcolor="#adf6f2">
-                            <td><b>Data</b></td>
-                            <td><b>Argomenti</b></td>
-                            <td><b>File lezione</b></td>
+                    <table class="tableDidattica">
+                        <thead>
+                        <tr>
+                            <th><b>Data</b></th>
+                            <th><b>Argomenti</b></th>
+                            <th><b>File lezione</b></th>
                         </tr>
-
-                        <tr bgcolor="#ffffff">
+                        </thead>
+                        <tbody>
+                        <tr>
                             <td><b>[16/11/20] </b></td>
                             <td>
                                 <ul class="text-left">
@@ -128,7 +129,7 @@
                             </td>
                         </tr>
 
-                        <tr bgcolor="#ffffff">
+                        <tr>
                             <td><b>[23/11/20] </b></td>
                             <td>
                                 <ul class="text-left">
@@ -141,7 +142,7 @@
                             </td>
                         </tr>
 
-                        <tr bgcolor="#ffffff">
+                        <tr>
                             <td><b>[30/11/20] </b></td>
                             <td>
                                 <ul class="text-left">
@@ -154,7 +155,7 @@
                             </td>
                         </tr>
 
-                        <tr bgcolor="#ffffff">
+                        <tr>
                             <td>
                                 <del><b>[07/12/20]</b></del>
                                 <br>
@@ -172,7 +173,7 @@
                             </td>
                         </tr>
 
-                        <tr bgcolor="#ffffff">
+                        <tr>
                             <td><b>[21/12/20] </b></td>
                             <td>
                                 <ul class="text-left">
@@ -187,7 +188,7 @@
                             </td>
                         </tr>
 
-                        <tr bgcolor="#ffffff">
+                        <tr>
                             <td><b>[11/01/21]</b><br><em>With extra Time</em></td>
                             <td>
                                 1° parte dell'esame "The game OF LIFE" <br>
@@ -200,7 +201,7 @@
                             </td>
                         </tr>
 
-                        <tr bgcolor="#ffffff">
+                        <tr>
                             <td><del><b>[18/01/21]</b></del></td>
                             <td>
                                 <del>2° parte dell'esame "The game OF LIFE"</del>
