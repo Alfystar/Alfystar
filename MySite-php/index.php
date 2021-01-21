@@ -138,6 +138,10 @@
             <div class="col-xs-12 col-md-8 col-md-offset-2">
                 <div class="text-center">
                     <h2>Interviste</h2>
+                    <p>
+                        Intervista del 3 maggio 2016, all'epoca avevo 19 anni ed ero diventato l'anno
+                        precedente campione in carica di robotica in Cina
+                    </p>
                     <iframe width="560" height="315" src="https://www.youtube.com/embed/s_NFlW5MMB4?start=665" frameborder="0"
                             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>

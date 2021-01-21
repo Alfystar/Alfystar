@@ -1,9 +1,9 @@
 <meta charset="UTF-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
-<meta content="width=device-width,initial-scale=1" name="viewport">
-<meta content="description" name="description">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Personal blog of the Ing Emanuele Alfano">
 <meta name="google" content="notranslate"/>
-<meta content="Mashup templates have been developped by Orson.io team" name="author">
+<meta name="author" content="Emanuele Alfano">
 
 <!-- Disable tap highlight on IE -->
 <meta name="msapplication-tap-highlight" content="no">
