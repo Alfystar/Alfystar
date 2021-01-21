@@ -34,7 +34,7 @@
                         <a href="mailto:alfystar1701@gmail.com?Subject=[Coding-Girl 2021]"
                            target="emailTab">alfystar1701@gmail.com</a> <br>
                         Corso indirizzato al liceo: <br>
-                        <ul>
+                    <ul>
                         <li>
                             LS VITO VOLTERRA - CIAMPINO
                         </li>
@@ -44,7 +44,8 @@
                         <li>
                             LICEO LEVI CIVITA - ROMA
                         </li>
-                        </ul>
+                    </ul>
+                    Codice corso: 4LAZ
                     </p>
                 </div>
                 <div id="Avvisi">
@@ -56,13 +57,13 @@
                             [13/01/21] Buon giorno a tutti ragazzi,le date provvisorie del corso saranno: <br>
                             <ul>
                                 <li>
-                                    Lunedì 25-01-21
+                                    Lunedì 01-02-21 dalle 16.00 alle 18.00
                                 </li>
                                 <li>
-                                    Lunedì 15-02-21
+                                    Lunedì 15-02-21 dalle 16.00 alle 18.00
                                 </li>
                                 <li>
-                                    Lunedì 22-03-21
+                                    Lunedì 22-03-21 dalle 16.00 alle 18.00
                                 </li>
                             </ul>
 
@@ -73,10 +74,17 @@
                     <h3>Argomenti trattati</h3>
 
                     <table class="tableDidattica">
+                        <colgroup>
+                            <col span="1" style="width: 10%;">
+                            <col span="1" style="width: 40%;">
+                            <col span="1" style="width: 40%;">
+                            <col span="1" style="width: 20%;">
+                        </colgroup>
                         <thead>
                         <tr>
                             <th><b>Data</b></th>
-                            <th><b>Argomenti</b></th>
+                            <th><b>Argomenti in Aula</b></th>
+                            <th><b>HomeWork</b></th>
                             <th><b>File lezione</b></th>
                         </tr>
                         </thead>
@@ -84,30 +92,108 @@
                         <tr>
                             <td><b>[25/01/21]</b></td>
                             <td>
-
+                                <ul class="text-left">
+                                    <li>
+                                        Come funziona un sito web?
+                                    </li>
+                                    <li>
+                                        Differenza tra blog e sito
+                                    </li>
+                                    <li>
+                                        Tipologia di siti/blog realizzabili
+                                    </li>
+                                    <li>
+                                        Altervista e Wordpress
+                                    </li>
+                                    <li>
+                                        Creazione di sito/blog gratuito VS pagamento
+                                    </li>
+                                </ul>
+                            </td>
+                            <td class="text-top">
+                                <ul class="text-left">
+                                    <li>
+                                        Progettazione del sito
+                                    </li>
+                                    <li>
+                                        Creare la bozza del menu di navigazione
+                                    </li>
+                                </ul>
                             </td>
                             <td>
-
+<!--                                <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">Modulo 1</a>-->
                             </td>
                         </tr>
-
                         <tr>
                             <td><b>[15/02/21] </b></td>
-                            <td>
-
+                            <td class="text-top">
+<!--                                <ul class="text-left">-->
+<!--                                    <li>-->
+<!--                                        Personalizzare il tema e cambio interfaccia del sito-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        La scrittura e l’impaginazione di contenuti in pagine e articoli-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Inserire contenuti multimediali (foto, video, pdf, ecc.)-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Cosa sono i Widget-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Plugin indispensabili-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Fare storytelling digitale con il blog-->
+<!--                                    </li>-->
+<!--                                </ul>-->
+                            </td>
+                            <td class="text-top">
+<!--                                <div class="text-left">-->
+<!--                                    Completare la realizzazione del sito/blog utilizzando le-->
+<!--                                    competenze acquisite in aula ed aggiungendo tutto il necessario-->
+<!--                                </div>-->
                             </td>
                             <td>
-
+<!--                                <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">Modulo 2</a>-->
                             </td>
                         </tr>
 
                         <tr>
                             <td><b>[22/03/21] </b></td>
                             <td>
-
+<!--                                <ul class="text-left">-->
+<!--                                    <li>-->
+<!--                                        Oltre il sito: Cenni di SEO, privacy, GDPR e sicurezza-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Social network: Pagine e profili-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Cenni di Intelligenza Artificiale-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Dimostrazione di tool che utilizzano AI nei siti web-->
+<!--                                    </li>-->
+<!--                                </ul>-->
+                            </td>
+                            <td class="text-top">
+<!--                                <ul class="text-left">-->
+<!--                                    <li>-->
+<!--                                        Perfezionare il sito/blog con aggiunta di elementi utili al-->
+<!--                                        miglioramento SEO e regolamenti sulla privacy-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        Applicazione di AI nel sito web-->
+<!--                                    </li>-->
+<!--                                    <li>-->
+<!--                                        <b>Extra</b>: Creare collegamenti tra sito/blog e profili (nuovi o esistenti)-->
+<!--                                        social-->
+<!--                                    </li>-->
+<!--                                </ul>-->
                             </td>
                             <td>
-
+<!--                                <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">Modulo 3</a>-->
                             </td>
                         </tr>
                         </tbody>

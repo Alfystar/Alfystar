@@ -18,3 +18,7 @@
 .tableDidattica td{
     background-color:#ffffff;
 }
+
+.text-top {
+    vertical-align: top;
+}

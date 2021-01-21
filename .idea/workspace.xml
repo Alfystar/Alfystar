@@ -1,13 +1,326 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="Last lesson FI2020 update">
-      <change afterPath="$PROJECT_DIR$/MySite-php/css/tableDidatticaStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" afterDir="false" />
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="CodingGirl2020">
+      <change afterPath="$PROJECT_DIR$/backup.tar.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/didattica.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/FondInf2020.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/commonHead.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/commonHead.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/Mountain Free Website Template - Free-CSS.com.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/.idea/mountain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/FotoProfilo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/Logo2 small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/logo-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/logo-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/mashup-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/profil-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/profil-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/profil-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/wave-footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/wave-header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/wave-hero-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/assets/images/wave-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/components.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/main.0cf8b554.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/main.550dcf66.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/main.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/project.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/sample/sample-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-Template/sitePart/HeaderMount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/.idea/mountain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/FotoProfilo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/Logo2 small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/logo-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/logo-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/mashup-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/profil-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/profil-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/profil-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/wave-footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/wave-header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/wave-hero-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/assets/images/wave-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/components.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/css/blockStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/css/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/css/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/didattica.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/didattica/FondInf2020.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/main.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/pageTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/sample/sample-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/sitePart/FooterMount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/sitePart/HeaderMount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/sitePart/commonHead.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/sitePart/contact-form-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/alfy-mountain-site/sitePart/iconSocialList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/css-menu-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/css-menu-master/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/css-menu-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/css-menu-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/css-menu-master/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/.idea/mountain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/logo-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/logo-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/mashup-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/profil-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/profil-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/profil-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/wave-footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/wave-header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/wave-hero-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/assets/images/wave-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/main.0cf8b554.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/main.0cf8b554.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/main.0cf8b554.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/main.550dcf66.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/main.550dcf66.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/alfySite-basework/mountain/sample/sample-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/css/tableDidatticaStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/css/tableDidatticaStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/Mountain Free Website Template - Free-CSS.com.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/.idea/mountain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/FotoProfilo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/Logo2 small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/logo-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/logo-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/mashup-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/profil-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/profil-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/profil-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/wave-footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/wave-header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/wave-hero-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/assets/images/wave-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/components.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/main.0cf8b554.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/main.550dcf66.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/main.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/project.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/sample/sample-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-Template/sitePart/HeaderMount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/.idea/mountain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/FotoProfilo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/Logo2 small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/apple-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/logo-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/logo-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/mashup-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/profil-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/profil-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/profil-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/wave-footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/wave-header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/wave-hero-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/assets/images/wave-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/components.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/css/blockStyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/css/grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/css/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/didattica.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/didattica/FondInf2020.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/main.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/pageTemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/sample/sample-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/sitePart/FooterMount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/sitePart/HeaderMount.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/sitePart/commonHead.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/sitePart/contact-form-process.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/alfy-mountain-site/sitePart/iconSocialList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/css-menu-master.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/css-menu-master/.github/FUNDING.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/css-menu-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/css-menu-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/css-menu-master/menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/.idea/mountain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/apple-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/img-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/logo-01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/logo-02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/logo-03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/mashup-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/profil-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/profil-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/profil-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/wave-footer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/wave-header.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/wave-hero-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/assets/images/wave-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/components.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/main.0cf8b554.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/main.0cf8b554.js.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/main.0cf8b554.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/main.550dcf66.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/main.550dcf66.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/project.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/alfySite-basework/mountain/sample/sample-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/2020-11-06-mySite.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/2020-11-07-mySite.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/2020-11-14-MySite.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Disco Laser/Circuito.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Disco Laser/Disco Completo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Disco Laser/Disco1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Disco Laser/Disco2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Disco Laser/Disco3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Disco Laser/Disco4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Disco Laser/Schede.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/FotoProfilo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Logo2 small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Percorso Formativo/Galilei.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Percorso Formativo/TorVergata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/20150721_162259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Debug Station.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Giocatori.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Manifesto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Nerea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Relax.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Robot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Spock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Super team 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Super team 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Super team 3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Team-Messico.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Robotica/Trofeo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Scorbot-img/1-Team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Scorbot-img/1Board.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Scorbot-img/2Board.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Scorbot-img/Scorbot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Scorbot-img/scoreboard v2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Space App/Mosimov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Space App/galactic 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Space App/glalactic 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/1_src/img/Space App/mosimov4_tagliato.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Didattica.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Didattica.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Fondamenti-Informatica.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Fondamenti-Informatica.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Percorso-Formatico.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Percorso-Formatico.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Progetti.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/Progetti.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/1-Team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/140717-0.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/1Board.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/20150721_162259.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/2Board.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Circuito.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/DebugStation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Disco1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Disco2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Disco3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Disco4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/DiscoCompleto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/FotoProfilo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Galilei.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Giocatori.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Logo2small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Manifesto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Mosimov.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Nerea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Robot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Schede.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Scorbot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Spock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Superteam1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Superteam2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/Team-Messico.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/TorVergata.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/default-image.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/galactic2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/glalactic1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/mosimov4_tagliato.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/images/scoreboardv2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/nicepage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/MySite/nicepage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/images/Logo2small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/niceSite/images/photo.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,11 +342,15 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4" />
   <component name="ProjectId" id="1lISHzBK6w5C2frDFVFMU6YWMgc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -75,7 +392,8 @@
       <workItem from="1608720502172" duration="270000" />
       <workItem from="1609756660258" duration="416000" />
       <workItem from="1610185173045" duration="621000" />
-      <workItem from="1610527945953" duration="4402000" />
+      <workItem from="1610527945953" duration="4563000" />
+      <workItem from="1611220671833" duration="3674000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -161,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610185685415</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="CodingGirl2020">
+      <created>1610532672488</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1610532672488</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +505,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Reformat file for the upload on altervista" />
     <MESSAGE value="biografia" />
     <MESSAGE value="typo correction" />
@@ -187,6 +513,7 @@
     <MESSAGE value="update data 16-12-20" />
     <MESSAGE value="L5-Aula update" />
     <MESSAGE value="Last lesson FI2020 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Last lesson FI2020 update" />
+    <MESSAGE value="CodingGirl2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="CodingGirl2020" />
   </component>
 </project>
