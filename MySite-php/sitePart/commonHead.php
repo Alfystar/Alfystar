@@ -4,7 +4,6 @@
 <meta name="description" content="Personal blog of the Ing Emanuele Alfano">
 <meta name="google" content="notranslate"/>
 <meta name="author" content="Emanuele Alfano">
-
 <!-- Disable tap highlight on IE -->
 <meta name="msapplication-tap-highlight" content="no">
 
