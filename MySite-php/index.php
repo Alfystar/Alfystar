@@ -139,12 +139,16 @@
                 <div class="text-center">
                     <h2>Interviste</h2>
                     <p>
-                        Intervista del 3 maggio 2016, all'epoca avevo 19 anni ed ero diventato l'anno
-                        precedente campione in carica di robotica in Cina
+                        Intervista del 3 maggio 2016, all'epoca avevo 18 anni e 6 mesi prima d ero diventato
+                        campione del mondo della categoria "Robocup Junior: Soccer" in Cina ad Hefei
                     </p>
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/s_NFlW5MMB4?start=665" frameborder="0"
-                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                            allowfullscreen></iframe>
+                    <div class="containerVideo16_9">
+                        <iframe class="video"
+                                src="https://www.youtube.com/embed/s_NFlW5MMB4?start=665" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+                    </div>
+
                 </div>
             </div>
         </div>

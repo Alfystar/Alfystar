@@ -18,6 +18,7 @@
 <link href="/MySite-php/css/blockStyle.css" rel="stylesheet">
 <link href="/MySite-php/css/menu.css" rel="stylesheet">
 <link href="/MySite-php/css/tableDidatticaStyle.css" rel="stylesheet">
+<link href="/MySite-php/css/videoStyle.css" rel="stylesheet">
 
 <?php
 
