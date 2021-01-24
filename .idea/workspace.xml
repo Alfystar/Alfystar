@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="meta update">
-      <change afterPath="$PROJECT_DIR$/MySite-php/css/videoStyle.css" afterDir="false" />
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="videoStyle.css create">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/commonHead.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/commonHead.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,8 @@
       <workItem from="1610185173045" duration="621000" />
       <workItem from="1610527945953" duration="4563000" />
       <workItem from="1611220671833" duration="7856000" />
-      <workItem from="1611487313022" duration="1223000" />
+      <workItem from="1611487313022" duration="1270000" />
+      <workItem from="1611504890394" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -200,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611228891914</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="videoStyle.css create">
+      <created>1611488565480</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1611488565480</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,6 +237,7 @@
     <MESSAGE value="CodingGirl2020" />
     <MESSAGE value="CodingGirl2021 &amp; home update" />
     <MESSAGE value="meta update" />
-    <option name="LAST_COMMIT_MESSAGE" value="meta update" />
+    <MESSAGE value="videoStyle.css create" />
+    <option name="LAST_COMMIT_MESSAGE" value="videoStyle.css create" />
   </component>
 </project>
