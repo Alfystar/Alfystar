@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="indicizzazione google">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" afterDir="false" />
-    </list>
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="lezione 1/1/21 CG" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +76,7 @@
       <workItem from="1611220671833" duration="7856000" />
       <workItem from="1611487313022" duration="1270000" />
       <workItem from="1611504890394" duration="1001000" />
-      <workItem from="1612200122687" duration="231000" />
+      <workItem from="1612200122687" duration="307000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -214,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611505862521</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="lezione 1/1/21 CG">
+      <created>1612200380766</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612200380766</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +250,7 @@
     <MESSAGE value="meta update" />
     <MESSAGE value="videoStyle.css create" />
     <MESSAGE value="indicizzazione google" />
-    <option name="LAST_COMMIT_MESSAGE" value="indicizzazione google" />
+    <MESSAGE value="lezione 1/1/21 CG" />
+    <option name="LAST_COMMIT_MESSAGE" value="lezione 1/1/21 CG" />
   </component>
 </project>

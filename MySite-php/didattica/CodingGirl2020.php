@@ -71,6 +71,9 @@
                         <li>
                             [01/01/21] Il 1° incontro da 1h, sarà Lunedì 08-02-21 dalle 16.00 alle 17.00
                         </li>
+                        <li>
+                            [28/02/21] Il 2° incontro da 1h, sarà Lunedì 08-03-21 dalle 16.00 alle 17.00
+                        </li>
                     </ul>
                 </div>
                 <div id="fileTable">
