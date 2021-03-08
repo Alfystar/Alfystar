@@ -70,6 +70,19 @@
                         </li>
                     </ul>
                 </div>
+				
+				<div id="Link_Utili">
+                    <h3 class="text-left">
+                        Link Utili
+                    </h3>
+                    <ul>
+                        <li>
+						<a href="https://socialengagement.it/wordpress-modificare-la-grandezza-immagine-in-evidenza/"
+                           target="link">Link per modificare dimensione immagine in evidenza</a>
+                        </li>
+                    </ul>
+                </div>
+				
                 <div id="fileTable">
                     <h3>Argomenti trattati</h3>
 
@@ -127,26 +140,26 @@
                         <tr>
                             <td><b>[15/02/21] </b></td>
                             <td class="text-top">
-<!--                                <ul class="text-left">-->
-<!--                                    <li>-->
-<!--                                        Personalizzare il tema e cambio interfaccia del sito-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        La scrittura e l’impaginazione di contenuti in pagine e articoli-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Inserire contenuti multimediali (foto, video, pdf, ecc.)-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Cosa sono i Widget-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Plugin indispensabili-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Fare storytelling digitale con il blog-->
-<!--                                    </li>-->
-<!--                                </ul>-->
+                                <ul class="text-left">
+                                    <li>
+                                        Personalizzare il tema e cambio interfaccia del sito
+                                    </li>
+                                    <li>
+                                        La scrittura e l’impaginazione di contenuti in pagine e articoli
+                                    </li>
+                                    <li>
+                                        Inserire contenuti multimediali (foto, video, pdf, ecc.)
+                                    </li>
+                                    <li>
+                                        Cosa sono i Widget
+                                    </li>
+                                    <li>
+                                        Plugin indispensabili
+                                    </li>
+                                    <li>
+                                        Fare storytelling digitale con il blog
+                                    </li>
+                                </ul>
                             </td>
                             <td class="text-top">
 <!--                                <div class="text-left">-->
@@ -162,20 +175,20 @@
                         <tr>
                             <td><b>[22/03/21] </b></td>
                             <td>
-<!--                                <ul class="text-left">-->
-<!--                                    <li>-->
-<!--                                        Oltre il sito: Cenni di SEO, privacy, GDPR e sicurezza-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Social network: Pagine e profili-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Cenni di Intelligenza Artificiale-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Dimostrazione di tool che utilizzano AI nei siti web-->
-<!--                                    </li>-->
-<!--                                </ul>-->
+                                <ul class="text-left">
+                                    <li>
+                                        Oltre il sito: Cenni di SEO, privacy, GDPR e sicurezza
+                                    </li>
+                                    <li>
+                                        Social network: Pagine e profili
+                                    </li>
+                                    <li>
+                                        Cenni di Intelligenza Artificiale
+                                    </li>
+                                    <li>
+                                        Dimostrazione di tool che utilizzano AI nei siti web
+                                    </li>
+                                </ul>
                             </td>
                             <td class="text-top">
 <!--                                <ul class="text-left">-->
