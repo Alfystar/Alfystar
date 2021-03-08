@@ -168,10 +168,10 @@
                                 </ul>
                             </td>
                             <td class="text-top">
-<!--                                <div class="text-left">-->
-<!--                                    Completare la realizzazione del sito/blog utilizzando le-->
-<!--                                    competenze acquisite in aula ed aggiungendo tutto il necessario-->
-<!--                                </div>-->
+                                <div class="text-left">
+                                    Completare la realizzazione del sito/blog utilizzando le
+                                    competenze acquisite in aula ed aggiungendo tutto il necessario
+                                </div>
                             </td>
 
                         </tr>
