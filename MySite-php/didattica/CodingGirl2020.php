@@ -68,6 +68,12 @@
                             </ul>
 
                         </li>
+                        <li>
+                            [01/01/21] Il 1° incontro da 1h, sarà Lunedì 08-02-21 dalle 16.00 alle 17.00
+                        </li>
+                        <li>
+                            [28/02/21] Il 2° incontro da 1h, sarà Lunedì 08-03-21 dalle 16.00 alle 17.00
+                        </li>
                     </ul>
                 </div>
 				
@@ -98,12 +104,11 @@
                             <th><b>Data</b></th>
                             <th><b>Argomenti in Aula</b></th>
                             <th><b>HomeWork</b></th>
-                            <th><b>File lezione</b></th>
                         </tr>
                         </thead>
                         <tbody>
                         <tr>
-                            <td><b>[25/01/21]</b></td>
+                            <td><b>[01/02/21]</b></td>
                             <td>
                                 <ul class="text-left">
                                     <li>
@@ -126,16 +131,17 @@
                             <td class="text-top">
                                 <ul class="text-left">
                                     <li>
-                                        Progettazione del sito
+                                        Progettazione del sito<br>
+                                        <small>scegliere target, posizionamento,
+                                            obiettivo, immagine coordinata: colori e font, approfondire discorso
+                                            scelte inclusive es. colori per discromia e font per dislessia, etc</small>
                                     </li>
                                     <li>
                                         Creare la bozza del menu di navigazione
                                     </li>
                                 </ul>
                             </td>
-                            <td>
-<!--                                <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">Modulo 1</a>-->
-                            </td>
+
                         </tr>
                         <tr>
                             <td><b>[15/02/21] </b></td>
@@ -167,9 +173,7 @@
 <!--                                    competenze acquisite in aula ed aggiungendo tutto il necessario-->
 <!--                                </div>-->
                             </td>
-                            <td>
-<!--                                <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">Modulo 2</a>-->
-                            </td>
+
                         </tr>
 
                         <tr>
@@ -205,9 +209,7 @@
 <!--                                    </li>-->
 <!--                                </ul>-->
                             </td>
-                            <td>
-<!--                                <a href="/Files/Didattica/2020/FondInf/L2.tar.gz" class="btn btn-primary">Modulo 3</a>-->
-                            </td>
+
                         </tr>
                         </tbody>
                     </table>
