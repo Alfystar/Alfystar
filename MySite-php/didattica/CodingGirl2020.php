@@ -74,17 +74,34 @@
                         <li>
                             [28/02/21] Il 2° incontro da 1h, sarà Lunedì 08-03-21 dalle 16.00 alle 17.00
                         </li>
+                        <li>
+                            [24/03/21] Il 3° incontro da 1h, sarà Lunedì 02-04-21 dalle 16.00 alle 17.00
+                        </li>
                     </ul>
                 </div>
-				
-				<div id="Link_Utili">
+
+                <div id="Link_Utili">
                     <h3 class="text-left">
                         Link Utili
                     </h3>
                     <ul>
                         <li>
-						<a href="https://socialengagement.it/wordpress-modificare-la-grandezza-immagine-in-evidenza/"
-                           target="link">Link per modificare dimensione immagine in evidenza</a>
+                            <a href="https://socialengagement.it/wordpress-modificare-la-grandezza-immagine-in-evidenza/"
+                               target="link">Link per modificare dimensione immagine in evidenza</a>
+                        </li>
+                        <li>
+                            Ecco qui i link ai video privati delle lezioni, registrati in fondazione:<br>
+                            <ul>
+                                <li>
+                                    <a href="https://youtu.be/ukJAJpcmHok-->"target="link">MODULO 1</a>
+                                </li>
+                                <li>
+                                    <a href="https://youtu.be/7PTAm4KHhCk-->"target="link">MODULO 2</a>
+                                </li>
+                                <li>
+                                    <a href="https://youtu.be/Q84fSbKzN4E-->"target="link">MODULO 3</a>
+                                </li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
@@ -195,19 +212,19 @@
                                 </ul>
                             </td>
                             <td class="text-top">
-<!--                                <ul class="text-left">-->
-<!--                                    <li>-->
-<!--                                        Perfezionare il sito/blog con aggiunta di elementi utili al-->
-<!--                                        miglioramento SEO e regolamenti sulla privacy-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        Applicazione di AI nel sito web-->
-<!--                                    </li>-->
-<!--                                    <li>-->
-<!--                                        <b>Extra</b>: Creare collegamenti tra sito/blog e profili (nuovi o esistenti)-->
-<!--                                        social-->
-<!--                                    </li>-->
-<!--                                </ul>-->
+                                <ul class="text-left">
+                                    <li>
+                                        Perfezionare il sito/blog con aggiunta di elementi utili al
+                                        miglioramento SEO e regolamenti sulla privacy
+                                    </li>
+                                    <li>
+                                        Applicazione di AI nel sito web
+                                    </li>
+                                    <li>
+                                        <b>Extra</b>: Creare collegamenti tra sito/blog e profili (nuovi o esistenti)
+                                        social
+                                    </li>
+                                </ul>
                             </td>
 
                         </tr>
