@@ -93,19 +93,60 @@
                             Ecco qui i link ai video privati delle lezioni, registrati in fondazione:<br>
                             <ul>
                                 <li>
-                                    <a href="https://youtu.be/ukJAJpcmHok-->"target="link">MODULO 1</a>
+                                    <a href="https://youtu.be/ukJAJpcmHok-->" target="link">MODULO 1</a>
                                 </li>
                                 <li>
-                                    <a href="https://youtu.be/7PTAm4KHhCk-->"target="link">MODULO 2</a>
+                                    <a href="https://youtu.be/7PTAm4KHhCk-->" target="link">MODULO 2</a>
                                 </li>
                                 <li>
-                                    <a href="https://youtu.be/Q84fSbKzN4E-->"target="link">MODULO 3</a>
+                                    <a href="https://youtu.be/Q84fSbKzN4E-->" target="link">MODULO 3</a>
                                 </li>
                             </ul>
                         </li>
                     </ul>
                 </div>
-				
+
+                <div id="File-pitch">
+                    <h3 class="text-left">
+                        File Modulo 4 (pitch finale)
+                    </h3>
+                    <p>
+                        Sono arrivate le disposizioni finali per l'organizzazione del pitch finale che si terrà <b>entro
+                            la fine di aprile</b> (appena si saprà la data verrà comunicato qui e su teams al più presto).
+                        <br>
+                        Nel frattempo, ecco il materiale necessario da compilare per arrivare pronti al giorno della
+                        presentazione (specie il primo punto se potete farlo al più presto):
+                    </p>
+                    <ol>
+                        <li>
+                            <a href="https://forms.gle/23MTchDrJ3ZWUsPc7" target="feedback"> Modulo di valutazione del
+                                corso</a> <br>
+                            Avendo attenzione che il codice del corso è "4LAZ".
+                        </li>
+                        <li>
+                            <a href="/Files/Didattica/2021/codingGirl/Schede Pitch Progetti per Presentazioni Finali (moduli 4).zip">
+                                Documento in formato docx e pdf da compilare del pitch + Presentazione del modulo 4</a>
+                        </li>
+                        <li>
+                            <img src="/Files/Didattica/2021/codingGirl/Temi.png">
+                        </li>
+                        <li>
+                            <p>
+                                Come detto all'incontro, una volta compilato il documento di word, inviare il file .docx
+                                a:
+                                <br><b>cg@mondodigitale.org</b> Oggetto: PitchFinaleCG<br>
+                                Avendo l'accorterza di rinominare il file come:<br>
+                                <b>
+                                    [Numero area tematica del progetto] [Nome scuola]_4LAZ_[script nomeGruppo].docx
+                                </b><br>
+
+                            </p>
+                        </li>
+
+                    </ol>
+
+                </div>
+
                 <div id="fileTable">
                     <h3>Argomenti trattati</h3>
 
