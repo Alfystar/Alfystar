@@ -1,0 +1,2 @@
+Nome da assegnare al documento word del pitch
+<Numero area tematica> <Nome scuola>_4LAZ_<VOSTRO nomeGruppo>.docx
