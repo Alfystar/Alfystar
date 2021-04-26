@@ -77,6 +77,9 @@
                         <li>
                             [24/03/21] Il 3° incontro da 1h, sarà Lunedì 02-04-21 dalle 16.00 alle 17.00
                         </li>
+                        <li>
+                            [26/04/21] Il pitch finale, della durata di ~2h, sarà Lunedì 03-05-21 dalle 16.00 alle 18.00 su teams
+                        </li>
                     </ul>
                 </div>
 
