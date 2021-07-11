@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="site big update">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/FooterMount.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/FooterMount.php" afterDir="false" />
-    </list>
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="footer correct" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,7 +82,7 @@
       <workItem from="1618239075630" duration="1268000" />
       <workItem from="1619455109456" duration="64000" />
       <workItem from="1625992649926" duration="10441000" />
-      <workItem from="1626009711608" duration="2120000" />
+      <workItem from="1626009711608" duration="2358000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -256,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626003772339</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="footer correct">
+      <created>1626011882278</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1626011882278</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,6 +294,7 @@
     <MESSAGE value="lezione 1/1/21 CG" />
     <MESSAGE value="update CG" />
     <MESSAGE value="site big update" />
-    <option name="LAST_COMMIT_MESSAGE" value="site big update" />
+    <MESSAGE value="footer correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="footer correct" />
   </component>
 </project>

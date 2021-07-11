@@ -111,7 +111,7 @@
                                 di banda del caso, e la "rottura" di dover cliccare 1 per 1 tutti i link, quando spesso,
                                 apparte il numero dell'episodio, l'url è lo stesso identico.
                                 <br>
-                                Da questa "esigenza" è nato il mio piccolo <b>List Download</b>>, un semplice script
+                                Da questa "esigenza" è nato il mio piccolo <b>List Download</b>, un semplice script
                                 python
                                 che permette di scaricare una lista di episodi lunga a piacere, tramite download
                                 paralleli.

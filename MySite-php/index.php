@@ -151,7 +151,7 @@
                 <div class="text-center">
                     <h2>Interviste</h2>
                     <p>
-                        Intervista del 3 maggio 2016, all'epoca avevo 18 anni e 6 mesi prima d ero diventato
+                        Intervista del 3 maggio 2016, all'epoca avevo 18 anni e 6 mesi prima ero diventato
                         campione del mondo della categoria "Robocup Junior: Soccer" in Cina ad Hefei
                     </p>
                     <div class="containerVideo16_9">
