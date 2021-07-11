@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="update CG">
-      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/MySite-php.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MySite-php/projects.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/didattica.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/FooterMount.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/FooterMount.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/HeaderMount.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/HeaderMount.php" afterDir="false" />
-    </list>
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="site big update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +81,7 @@
       <workItem from="1618047598815" duration="1301000" />
       <workItem from="1618239075630" duration="1268000" />
       <workItem from="1619455109456" duration="64000" />
-      <workItem from="1625992649926" duration="9265000" />
+      <workItem from="1625992649926" duration="9889000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -249,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618240301320</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="site big update">
+      <created>1626001936645</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1626001936645</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +278,7 @@
     <MESSAGE value="indicizzazione google" />
     <MESSAGE value="lezione 1/1/21 CG" />
     <MESSAGE value="update CG" />
-    <option name="LAST_COMMIT_MESSAGE" value="update CG" />
+    <MESSAGE value="site big update" />
+    <option name="LAST_COMMIT_MESSAGE" value="site big update" />
   </component>
 </project>
