@@ -28,9 +28,10 @@
                 <div class="col-xs-12">
                     <h1>Ing. Emanuele Alfano</h1>
                     <ul class="text-left">
-                        <li>Perito Informatico-Automatico</li>
-                        <li>Ingegnere Informatico-Automatico</li>
-                        <li>Studente di Automazione Industriale</li>
+                        <li>Laureato Magistrale in <b>Ing dell'Automazione Industriale</b></li>
+                        <li>Laureato Triennale in <b>Ing dell'Informazione e dell'Automazione</b></li>
+                        <li>Diplomato Perito Tecnico Industriale in <b>Elettronica ed Elettrotecnica, con
+                                specializzazione in Automazione</b></li>
                     </ul>
                     <!-- Per allineare al centro è necessario sapere la dimensione esatta occupata dalle icone-->
                     <div style="display: block;margin-left: auto;margin-right: auto; width: 118px">
@@ -80,56 +81,67 @@
                         Sin dagli anni delle superiori ho avuto attività extra scolastiche molto immersive, che mi hanno
                         portato a partecipare a molti eventi, ecco una lista <i>non esaustiva</i> degli eventi a
                         cui ho partecipato:
-                        <ul class="text-left blockList">
-                            <li>
-                                <div class="flex-conteiner">
-                    <p class="flex-child">
-                        [12-14/10/2018] Espositore alla <b>Maker Faire Rome 2018</b>, con la versione <b>FINALE</b>
-                        del 3D-Robot-Pac-Man.
+                    <ul class="text-left blockList">
+                        <li>
+                            <div class="flex-conteiner">
+                                <p class="flex-child">
+                                    [12-14/10/2018] Espositore alla <b>Maker Faire Rome 2018</b>, con la versione <b>FINALE</b>
+                                    del 3D-Robot-Pac-Man.
+                                </p>
+                                <a class="btn btn-info btn-sm pull-right flex-child-Small" target="giornali"
+                                   href="https://magpi.raspberrypi.org/articles/robot-pac-man">
+                                    Learn More
+                                </a>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="flex-conteiner">
+                                <p>
+                                    [01-03/12/2017] Espositore alla <b>Maker Faire Rome 2017</b>, della versione
+                                    ulteriormente
+                                    migliorata del 3D-Robot-Pac-Man
+                                </p>
+                                <a class="btn btn-info btn-sm pull-right flex-child-Small" target="giornali"
+                                   href="https://www.mondodigitale.org/en/news/pacman-and-robot">
+                                    Learn More
+                                </a>
+                            </div>
+                        </li>
+                        <li>
+                            [14-16/10/2016] Espositore alla <b>Maker Faire Rome 2016</b>, con il progetto di gruppo del
+                            3D-Robot-Pac-Man
+                        </li>
+                        <li>
+                            [16-18/10/2015] Espositore alla <b>Maker Faire Rome 2015</b> dei robot di robotica (con i
+                            quali lo
+                            stesso anno vincemmo i mondiali)
+                            e del mio progetto personale estivo, il <a
+                                    href="https://photos.app.goo.gl/bvSjCCQMgepUbpc38" target="imgs">Disco Laser</a>.
+                        </li>
+                        <li>
+                            <div class="flex-conteiner">
+                                <p class="flex-child">
+                                    [17-23/07/2015] Vincitore della <b>RoboCup-Junior sezione Soccer Light</b> in Cina.
+                                </p>
+                                <a class="btn btn-info btn-sm pull-right flex-child-Small" target="giornali"
+                                   href="https://www.italia-news.it/roma-iis-galileo-galilei-vince-i-mondiali-di-robotica-in-cina-11553.html#:~:text=robotica%20in%20Cina-,Roma.,costruiti%20e%20programmati%20dagli%20studenti.">
+                                    Learn More
+                                </a>
+                            </div>
+                        </li>
+                        <li>
+                            [19-25/06/2014] Secondo posto alla <b>RoboCup-Junior sezione Soccer Light</b> in Brasile.
+                        </li>
+                        <li>
+                            [12-13/4/2014] Secondo posto della <b>Space Apps Rome 2014</b> con il progetto
+                            <a href="http://www.davidealoisi.it/eventi/spaceapps/" target="_blank">MOSIMOV</a>.
+                        </li>
+                    </ul>
                     </p>
-                    <a class="btn btn-info btn-sm pull-right flex-child-Small" target="giornali"
-                       href="https://magpi.raspberrypi.org/articles/robot-pac-man">
-                        Learn More
-                    </a>
                 </div>
-                </li>
-                <li>
-                    [01-03/12/2017] Espositore alla <b>Maker Faire Rome 2017</b>, della versione ulteriormente
-                    migliorata del 3D-Robot-Pac-Man
-                </li>
-                <li>
-                    [14-16/10/2016] Espositore alla <b>Maker Faire Rome 2016</b>, con il progetto di gruppo del
-                    3D-Robot-Pac-Man
-                </li>
-                <li>
-                    [16-18/10/2015] Espositore alla <b>Maker Faire Rome 2015</b> dei robot di robotica (con i quali lo
-                    stesso anno vincemmo i mondiali)
-                    e del mio progetto personale estivo, il <a href="#">Disco Laser</a>.
-                </li>
-                <li>
-                    <div class="flex-conteiner">
-                        <p class="flex-child">
-                            [17-23/07/2015] Vincitore della <b>RoboCup-Junior sezione Soccer Light</b> in Cina.
-                        </p>
-                        <a class="btn btn-info btn-sm pull-right flex-child-Small" target="giornali"
-                           href="https://www.italia-news.it/roma-iis-galileo-galilei-vince-i-mondiali-di-robotica-in-cina-11553.html#:~:text=robotica%20in%20Cina-,Roma.,costruiti%20e%20programmati%20dagli%20studenti.">
-                            Learn More
-                        </a>
-                    </div>
-                </li>
-                <li>
-                    [19-25/06/2014] Secondo posto alla <b>RoboCup-Junior sezione Soccer Light</b> in Brasile.
-                </li>
-                <li>
-                    [12-13/4/2014] Secondo posto della <b>Space Apps Rome 2014</b> con il progetto
-                    <a href="http://www.davidealoisi.it/eventi/spaceapps/" target="_blank">MOSIMOV</a>.
-                </li>
-                </ul>
-                </p>
             </div>
         </div>
     </div>
-</div>
 </div>
 
 <div class="section-container">

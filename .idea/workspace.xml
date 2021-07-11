@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="update CG">
+      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/MySite-php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySite-php/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySite-php/projects.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica/CodingGirl2020.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/didattica.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/didattica.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/FooterMount.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/FooterMount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySite-php/sitePart/HeaderMount.php" beforeDir="false" afterPath="$PROJECT_DIR$/MySite-php/sitePart/HeaderMount.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MySite-php/didattica" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MySite-php" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -50,6 +59,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MySite-php" />
       <recent name="$PROJECT_DIR$/MySite-php/didattica" />
     </key>
   </component>
@@ -83,6 +93,7 @@
       <workItem from="1618047598815" duration="1301000" />
       <workItem from="1618239075630" duration="1268000" />
       <workItem from="1619455109456" duration="64000" />
+      <workItem from="1625992649926" duration="9265000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>

@@ -72,6 +72,8 @@
                             <a href="./didattica/CodingGirl2020.php" class="btn btn-info btn-sm">Coding-Girl 2021</a>
                         </div>
                     </div>
+                    <a href="https://web.uniroma2.it/module/name/Content/newlang/italiano/navpath/HOM/action/showpage/content_id/92493" class=" btn btn-info btn-link">
+                        More info on Tor Vergata Website</a>
                 </div>
             </div>
         </div>

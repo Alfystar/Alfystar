@@ -5,24 +5,26 @@
 $menuList = array(
     array("Home", "/MySite-php/index.php"),
     array("Didattica", "/MySite-php/didattica.php"),
-//    array("Component", "/components.php"),
+    array("Projects", "/MySite-php/projects.php"),
 //    array("pageTemplate", "/pageTemplate.php"),
 );
 
+/// Generate Html Code of the toolbar, with or without the Border (based on the currente page)
 function itemMenu($name, $link, $box)
 {
     $box = boolval($box);
     if ($box) {
         echo '
         <li>
-        <p>
-            <a href=', $link, ' class="btn btn-default navbar-btn" title="">', $name, '</a>
-        </p>
-        
-    </li>
+            <p>
+                <a href=', $link, ' class="btn btn-default navbar-btn" title="', $name, '">', $name, '</a>
+            </p>
+        </li>
         ';
     } else {
-        echo '<li><a href=', $link, ' title="">', $name, '</a></li>';
+        echo '<li>
+                <a href=', $link, ' title="', $name, '">', $name, '</a>
+                </li>';
     }
 }
 
@@ -59,7 +61,7 @@ function navbarDefault()
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/index.html" title="">
+        <a class="navbar-brand" href="/index.html" title="logo">
             <img src="/MySite-php/assets/Logo2 small.png" class="navbar-logo-img" alt="" height="60px">
             Ing Emanuele Alfano
         </a>
