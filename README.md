@@ -2,15 +2,17 @@
 
 <!--[![Website](https://img.shields.io/website?label=EmanueleAlfano&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://emanuelealfano.altervista.org/MySite-php/index.php)
 -->
+Hi everyone! I am an avid programmer with a special passion for software development and open source collaboration. Today I'd like to share my GitHub profile with you and show you some of the interesting projects I've been working on.
 
-## I'm a Studient, Developer, Researcher and Teacher!!
+## I'm a Worker, Studient inside, Developer, Researcher and Teacher!!
 
-- 🔭 In my university I'm a tutor, and also, i follow different [educational projects](https://emanuelealfano.altervista.org/MySite-php/didattica.php)
+- 🔭 In my university I was a tutor and i followed different [educational projects](https://emanuelealfano.altervista.org/MySite-php/didattica.php)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love Sci-fy and Anime
 
-### Connect with me:
+I currently work at Enel as a Salesforce developer, but my passions haven't changed, and they haven't diminished in the slightest!
+###### Please connect with me:
 
 [<img align="left" alt="EmanueleAlfano" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Alfystar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -52,20 +54,28 @@ Empty Element, add alternative lable and the image path chosen from : https://gi
 
 ---
 
+<!--START_SECTION:activity-->
+<details>
+  <summary>:construction_worker: All my Jobs :moneybag:</summary>
+
+1. 2/7/2022 Salesforce developer @ [Enel](https://www.enel.it/)
+
+2. 24/01/2022 PLC programmer @ [Automate SRL](https://automatesrl.it/)
+
+3. 15/11/2021 QT developer for Red-Hat application @ [Elettronica ELT](https://www.elt-roma.com/)
+
+</details>
 <details>
   <summary>:school: Academic Achievements :mortar_board:</summary>
-<!--START_SECTION:activity-->
-1. 15/10/2021 Master degree @ Tor Vergata University
 
+1. 15/10/2021 Master degree @ Tor Vergata University
 
 2. 22/07/2019 Bachelor's Degree  @ Tor Vergata University 110 Cum Laude
 
-
 3. 07/07/2016 High Scool @ Galileo Galilei 100/100
 
-
-<!--END_SECTION:activity-->
 </details>
+<!--END_SECTION:activity-->
 
 <!--  Link Section  -->
 [website]: https://emanuelealfano.altervista.org/MySite-php/index.php
