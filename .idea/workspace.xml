@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="README.md github update">
+    <list default="true" id="2998c2e2-6eff-4461-85f5-cacb771b36ef" name="Default Changelist" comment="README.md GitHub update">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +89,7 @@
       <workItem from="1619455109456" duration="64000" />
       <workItem from="1625992649926" duration="10441000" />
       <workItem from="1626009711608" duration="2358000" />
-      <workItem from="1685365574315" duration="2649000" />
+      <workItem from="1685365574315" duration="2709000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -280,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685368160233</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="README.md GitHub update">
+      <created>1685368249291</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1685368249291</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +324,7 @@
     <MESSAGE value="footer correct" />
     <MESSAGE value="Data update after some time" />
     <MESSAGE value="README.md github update" />
-    <option name="LAST_COMMIT_MESSAGE" value="README.md github update" />
+    <MESSAGE value="README.md GitHub update" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md GitHub update" />
   </component>
 </project>
