@@ -89,7 +89,7 @@
       <workItem from="1619455109456" duration="64000" />
       <workItem from="1625992649926" duration="10441000" />
       <workItem from="1626009711608" duration="2358000" />
-      <workItem from="1685365574315" duration="2709000" />
+      <workItem from="1685365574315" duration="2725000" />
     </task>
     <task id="LOCAL-00001" summary="Reformat file for the upload on altervista">
       <created>1607283986848</created>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685368249291</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="README.md GitHub update">
+      <created>1685368295176</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1685368295176</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
