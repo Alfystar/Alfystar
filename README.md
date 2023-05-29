@@ -24,6 +24,31 @@ slightest!
 [<img align="left" alt="Alfystar | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
+<br />
+
+
+<!--START_SECTION:activity-->
+<details>
+  <summary>:construction_worker: All my Jobs :moneybag:</summary>
+
+1. 2/7/2022 Salesforce developer @ [Enel](https://www.enel.it/)
+
+2. 24/01/2022 PLC programmer @ [Automate SRL](https://automatesrl.it/)
+
+3. 15/11/2021 QT developer for Red-Hat application @ [Elettronica ELT](https://www.elt-roma.com/)
+
+</details>
+<details>
+  <summary>:school: Academic Achievements :mortar_board:</summary>
+
+1. 15/10/2021 Master degree @ Tor Vergata University
+
+2. 22/07/2019 Bachelor's Degree @ Tor Vergata University 110 Cum Laude
+
+3. 07/07/2016 High Scool @ Galileo Galilei 100/100
+
+</details>
+<!--END_SECTION:activity-->
 
 ### Languages and Tools:
 
@@ -49,30 +74,7 @@ To read correctly the url see https://stackoverflow.com/questions/39065921/what-
 <!--[<img align="left" alt="Mathematica" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/" />][webdevplaylist]-->
 <!--[<img align="left" alt="UML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/" />][webdevplaylist]-->
 <!--[<img align="left" alt="Eagle" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/" />][webdevplaylist]-->
-<br>
-
-<!--START_SECTION:activity-->
-<details>
-  <summary>:construction_worker: All my Jobs :moneybag:</summary>
-
-1. 2/7/2022 Salesforce developer @ [Enel](https://www.enel.it/)
-
-2. 24/01/2022 PLC programmer @ [Automate SRL](https://automatesrl.it/)
-
-3. 15/11/2021 QT developer for Red-Hat application @ [Elettronica ELT](https://www.elt-roma.com/)
-
-</details>
-<details>
-  <summary>:school: Academic Achievements :mortar_board:</summary>
-
-1. 15/10/2021 Master degree @ Tor Vergata University
-
-2. 22/07/2019 Bachelor's Degree @ Tor Vergata University 110 Cum Laude
-
-3. 07/07/2016 High Scool @ Galileo Galilei 100/100
-
-</details>
-<!--END_SECTION:activity-->
+<br />
 
 ---
 <!--
