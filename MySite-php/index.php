@@ -38,8 +38,13 @@
                         <?php include("./sitePart/iconSocialList.php") ?>
                     </div>
                     <div class="center-block" style="padding-top: 20px">
-                        <a href="/Files/Personali/21-07-06EMANUELE ALFANO CV.pdf" class="btn btn-default btn-lg"
-                           title="">Get Curriculum</a>
+                        <a href="/Files/Personali/20230529-EMANUELE ALFANO CV.pdf"
+                           class="btn btn-default btn-lg center-block"
+                           title="">Get Curriculum Ita</a>
+                        &nbsp;
+                        <a href="/Files/Personali/20230529-EMANUELE ALFANO CV - ENG.pdf"
+                           class="btn btn-default btn-lg center-block"
+                           title="">Get Curriculum ENG</a>
                     </div>
                 </div>
             </div>
@@ -53,6 +58,12 @@
             <div class="col-xs-12 col-md-8 col-md-offset-2">
                 <div class="text-center">
                     <h2>Biografia</h2>
+                    <h3>Percorso Lavorativo</h3>
+                    <ul class="text-left blockList">
+                        <li><b>Enel</b> - Programmatore Salesforce</li>
+                        <li><b>Automate</b> - Programmatore PLC</li>
+                        <li><b>Rina</b> - Sviluppatore QT5/6</li>
+                    </ul>
                     <h3>Percorso Formativo</h3>
                     <ul class="text-left blockList">
                         <li>
