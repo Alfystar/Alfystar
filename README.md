@@ -1,56 +1,63 @@
 # Hi there, I'm Emanuele Alfano - aka [Alfystar][website] 👋
 
-<!--[![Website](https://img.shields.io/website?label=EmanueleAlfano&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://emanuelealfano.altervista.org/MySite-php/index.php)
--->
-Hi everyone! I am an avid programmer with a special passion for software development and open source collaboration.
-Today I'd like to share my GitHub profile with you and show you some of the interesting projects I've been working on.
+Hi everyone! I'm a passionate developer, researcher, and lifelong learner with a strong interest in software engineering, open source, and automation. I love building things—from code to smart homes—and sharing knowledge through collaboration.
 
-## I'm a Worker, Studient inside, Developer, Researcher and Teacher!!
+## 👨‍💻 Who am I?
 
-- 🔭 In my university I was a tutor and i followed
-  different [educational projects](https://emanuelealfano.altervista.org/MySite-php/didattica.php)
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love Sci-fy and Anime
+- 🚀 **DevOps Engineer @ Enel** – Since 2024, I manage the infrastructure that enables the development and release of Salesforce applications.
+- 🎓 Former **University Tutor** and proud graduate of Tor Vergata University.
+- 🤖 **Robotics World Champion** – Winner of the 2016 RoboCup Soccer competition during high school.
+- 🛠️ **Maker Faire Exhibitor** – Presented personal tech projects three times at Maker Faire Rome.
+- 🏡 **Smart Home Enthusiast** – Built a Home Assistant server and repurposed SonOff devices with Tasmota firmware.
+- 📚 Declined a PhD scholarship to pursue more impactful and practical challenges.
 
-I currently work at Enel as a Salesforce developer, but my passions haven't changed, and they haven't diminished in the
-slightest!
+## ⚡ Fun facts:
 
-###### Please connect with me:
+- I love Sci-fi and Anime
+- I enjoy teaching and mentoring
+- I believe in learning by doing
+
+## 📫 Connect with me
 
 [<img align="left" alt="EmanueleAlfano" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Alfystar | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Alfystar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Alfystar | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 <br />
 <br />
 
-
+## 🧑‍💻 About me
 <!--START_SECTION:activity-->
 <details>
-  <summary>:construction_worker: All my Jobs :moneybag:</summary>
+  <summary>🏆 Personal Achievements</summary>
 
-1. 2/7/2022 Salesforce developer @ [Enel](https://www.enel.it/)
-
-2. 24/01/2022 PLC programmer @ [Automate SRL](https://automatesrl.it/)
-
-3. 15/11/2021 QT developer for Red-Hat application @ [Elettronica ELT](https://www.elt-roma.com/)
+- 🥇 **RoboCup Soccer World Champion** – 2016
+- 🧠 **Maker Faire Rome Exhibitor** – 3 editions with personal tech projects
+- 🎓 **University Tutor** – Supported students in educational projects
+- 🎓 **PhD Scholarship Winner** – Declined to pursue more practical innovation
 
 </details>
 <details>
-  <summary>:school: Academic Achievements :mortar_board:</summary>
+  <summary>🎓 Academic Background</summary>
 
-1. 15/10/2021 Master degree @ Tor Vergata University
+1. 🎓 Master’s Degree – Tor Vergata University (15/10/2021)
+2. 🎓 Bachelor’s Degree – Tor Vergata University, 110 Cum Laude (22/07/2019)
+3. 🎓 High School – Galileo Galilei, 100/100 (07/07/2016)
 
-2. 22/07/2019 Bachelor's Degree @ Tor Vergata University 110 Cum Laude
+   
+</details>
+<details>
+  <summary>💼 Work Experience</summary>
 
-3. 07/07/2016 High Scool @ Galileo Galilei 100/100
+1. 🧑‍💻 DevOps Engineer – Enel (from 2024)
+2. 🧑‍💻 Salesforce Developer – Enel (02/07/2022)
+3. 🤖 PLC Programmer – Automate SRL (24/01/2022)
+4. 🖥️ QT Developer – Elettronica ELT (15/11/2021)
 
 </details>
 <!--END_SECTION:activity-->
 
-### Languages and Tools:
+## 🧰 Languages and Tools
 
 <!-- HTML version of the raw.githubusercontent.com is: https://github.com/github/explore 
 To read correctly the url see https://stackoverflow.com/questions/39065921/what-do-raw-githubusercontent-com-urls-represent
@@ -87,7 +94,7 @@ Empty Element, add alternative lable and the image path chosen from : https://gi
 
 <!--  Link Section  -->
 
-[website]: https://emanuelealfano.altervista.org/MySite-php/index.php
+[website]: https://github.com/Alfystar
 
 [webdevplaylist]: https://github.com/Alfystar
 
